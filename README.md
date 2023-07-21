@@ -1,1 +1,1 @@
-Rock paper scissors game using java
+Rock paper scissors game using java and python
